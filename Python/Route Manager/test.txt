@@ -1,0 +1,17 @@
+airlines:
+- airline_id: '2'
+  airline_name: 135 Airways
+  airline_icao_unique_code: GNL
+  airline_country: United States
+- airline_id: '3'
+  airline_name: 1Time Airline
+  airline_icao_unique_code: RNX
+  airline_country: South Africa
+- airline_id: '4'
+  airline_name: 2 Sqn No 1 Elementary Flying Training School
+  airline_icao_unique_code: WYT
+  airline_country: United Kingdom
+- airline_id: '5'
+  airline_name: 213 Flight Unit
+  airline_icao_unique_code: TFU
+  airline_country: Russia
